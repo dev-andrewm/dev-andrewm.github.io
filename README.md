@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/dev-andrewm/stats-preview-card-component)
-- Live Site URL: https://dev-andrewm.github.io/index.html
+- Live Site URL: https://dev-andrewm.github.io/stats_preview_card_component/index.html
 
 ## My process
 
